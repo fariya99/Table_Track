@@ -1,0 +1,39 @@
+[BURGERS]
+Zinger burger,500.0
+Zinger cheese burger,550.0
+Chicken burger,350.0
+Chicken cheese burger,400.0
+Chicken jumbo burger,450.0
+Beef burger,400.0
+Creamy mushroom burger,700.0
+Spicy buffalo burger,800.0
+Bar-b-que,650.0
+Hawaian burger,650.0
+[PASTA]
+Spicy fatuccine pasta,350.0
+Alferado pasta,500.0
+Red sauce pasta,300.0
+[NOODLES]
+Chowmein,450.0
+Vegetables,400.0
+[RICE]
+Fried rice,350.0
+Singaporean rice,500.0
+[SOUP]
+Chicken corn Soup,200.0
+Prawn corn Soup,300.0
+Hot n sour Soup,250.0
+[APPETIZERS]
+French fries,150.0
+Cole slaw,100.0
+Salad,200.0
+Special sauce,175.0
+[DRINKS]
+Lemonade,150.0
+Mango shake,120.0
+Strawberry shake,200.0
+Blue berry juice,250.0
+banana shake,130.0
+[CHOCOLATES]
+milk chocolate,30.0
+dark chocolate,350.0

@@ -1,0 +1,9 @@
+Customer Info:
+Name: sara
+Contact: 2345678999990
+Address: lahore
+
+Order:
+Spicy buffalo burger x1 = Rs800.00
+
+Total: Rs800.00

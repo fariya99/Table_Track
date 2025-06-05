@@ -1,0 +1,77 @@
+Order Time: 2025-06-03 19:37:13
+Customer Name: farzana
+Contact: 03422657292
+Address: 123 usmania rizvia
+Chicken burger x 7 = Rs2450.00
+Chicken jumbo burger x 10 = Rs4500.00
+Spicy buffalo burger x 8 = Rs6400.00
+Hawaian burger x 5 = Rs3250.00
+Spicy fatuccine pasta x 7 = Rs2450.00
+Chowmein x 10 = Rs4500.00
+Singaporean rice x 8 = Rs4000.00
+Total: Rs27550.00
+
+Order Time: 2025-06-03 20:28:25
+Customer Name: fariya
+Contact: 23456789076
+Address: zsxdfghjkl6
+Zinger burger x 1 = Rs500.00
+Total: Rs500.00
+
+Order Time: 2025-06-03 20:31:27
+Customer Name: asgfhjkl
+Contact: 234567890
+Address: Zxcghnjkl
+Creamy mushroom burger x 1 = Rs700.00
+Total: Rs700.00
+
+Order Time: 2025-06-03 20:33:59
+Customer Name: sdfgrthyj
+Contact: 32456789
+Address: asdfghjkl
+Creamy mushroom burger x 1 = Rs700.00
+Total: Rs700.00
+
+Order Time: 2025-06-03 21:10:21
+Customer Name: aaamna
+Contact: 1234567890
+Address: wdefrgthyju
+Spicy fatuccine pasta x 1 = Rs350.00
+Total: Rs350.00
+
+Order Time: 2025-06-03 23:06:50
+Customer Name: hania
+Contact: 234567890987
+Address: sdfvghjkilo
+Singaporean rice x 1 = Rs500.00
+Total: Rs500.00
+
+Order Time: 2025-06-03 23:11:36
+Customer Name: asdfgh
+Contact: 345678989
+Address: xcvfmjkl;lk
+Red sauce pasta x 1 = Rs300.00
+Total: Rs300.00
+
+Order Time: 2025-06-04 10:34:45
+Customer Name: soha
+Contact: 213457698765
+Address: cfghjkloiuyt
+Chicken cheese burger x 1 = Rs400.00
+Total: Rs400.00
+
+Order Time: 2025-06-05 20:55:23
+Customer Name: ali
+Contact: 234567890
+Address: karachi
+Hawaian burger x 2 = Rs1300.00
+Alferado pasta x 1 = Rs500.00
+Total: Rs1800.00
+
+Order Time: 2025-06-05 21:10:14
+Customer Name: sara
+Contact: 2345678999990
+Address: lahore
+Spicy buffalo burger x 1 = Rs800.00
+Total: Rs800.00
+
